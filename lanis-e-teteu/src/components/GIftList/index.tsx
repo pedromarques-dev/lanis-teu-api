@@ -32,7 +32,7 @@ export const GiftList: React.FC<IProps> = ({isLanis, gifts}) =>  {
                             maxW={200}
                             maxH={400} 
                         >
-                                <Image w="100%" maxH={170} src={gift.photo} alt={gift.name} />
+                                <Image w="100%"  maxH={170} src={gift.photo} alt={gift.name} />
                                 <ListItem color="#111" py={2}>{gift.name}</ListItem>
                         </Box>
                     </a>
