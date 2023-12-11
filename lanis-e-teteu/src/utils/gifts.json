@@ -1,0 +1,28 @@
+{
+    "list": {
+        "lanis": [
+            {
+                "photo": "https://m.media-amazon.com/images/I/71DHOCg9C6L._AC_SX679_.jpg",
+                "src": "https://www.amazon.com.br/MP847-Dimens%C3%B5es-Antiderrapante-Mercerizada-Costurada/dp/B09N7QMFW2/ref=asc_df_B09N7QMFW2/?tag=googleshopp00-20&linkCode=df0&hvadid=379707456874&hvpos=&hvnetw=g&hvrand=9769066239668920462&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001533&hvtargid=pla-1567974815977&psc=1&mcid=3c4b8a459bec35fb8467a6aba0bb8a90",
+                "name": "MousePad"
+            },
+            {
+                "photo": "https://m.media-amazon.com/images/I/41l8dbPvgpL._AC_SX569_.jpg",
+                "src": "https://www.amazon.com.br/Bermuda-Short-Feminino-Rasgado-FemininoBermuda/dp/B0CG3YBL1K/ref=asc_df_B0CG3YBL1K/?tag=googleshopp00-20&linkCode=df0&hvadid=671996560497&hvpos=&hvnetw=g&hvrand=2996795754850495790&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001533&hvtargid=pla-2205817431066&mcid=239cec1726233f7f9fb7183e88665ea2&th=1&psc=1",
+                "name": "Short Jeans"
+            }
+        ],
+        "teteu": [
+            {
+                "photo": "https://m.media-amazon.com/images/I/914anR0UuZL._AC_SX679_.jpg",
+                "src": "https://www.amazon.com.br/Cuecas-Boxer-Microfibra-Sortidas-Tamanho/dp/B09KDPZJD8/ref=asc_df_B09KDPZJD8/?tag=googleshopp00-20&linkCode=df0&hvadid=647510894852&hvpos=&hvnetw=g&hvrand=3084840261700480959&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001533&hvtargid=pla-2069441346607&mcid=2d12e7918b2839579ffcd07fa8aca99b&th=1&psc=1",
+                "name": "Cuecas"
+            },
+            {
+                "photo": "https://m.media-amazon.com/images/I/61zR1x0AqdL._AC_SY695_.jpg",
+                "src": "https://www.amazon.com.br/T%C3%AAnis-Masculino-Academia-Corrida-Esportivo/dp/B0BS9N8QSD/ref=asc_df_B0BS9N8QSD/?tag=googleshopp00-20&linkCode=df0&hvadid=642895267346&hvpos=&hvnetw=g&hvrand=17582353586851709594&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001533&hvtargid=pla-1947342518835&mcid=2133f2210e953b6aaac1d3b21f11626b&th=1&psc=1",
+                "name": "Tenis Academia"
+            }
+        ]
+    }
+}
